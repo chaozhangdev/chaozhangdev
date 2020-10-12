@@ -1,5 +1,5 @@
 <div align="center">
-  <img max-width="800" src="https://github.com/chaozhang666/chaozhang666/blob/main/dino.gif?raw=true"/>
+  <img max-width="800" src="hhttps://github.com/chaozhang666/chaozhang666/blob/main/dino.gif?raw=true"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
