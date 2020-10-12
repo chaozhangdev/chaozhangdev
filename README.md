@@ -7,7 +7,7 @@
 ```javascript
 const chao = {
     pronouns: "He" | "Him",
-    location: 'Vancouver, Canada'
+    location: 'Vancouver, Canada',
     code: ["Javascript", "Typescript", 'CSS', 'HTML', "Python", "Java"],
     technologies: {
         frontEnd: {
