@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me 
+### About Me 
 
 ```javascript
 const chao = {
