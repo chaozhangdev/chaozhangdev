@@ -7,7 +7,7 @@ const chao = {
     code: ["Javascript", "Typescript", 'CSS', 'HTML', "Python", "Java"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", 'Next.js'],
+            js: ["React", "Vue", 'VuePress', 'Next.js'],
             css: ["Material UI", "Ant Design", "Bootstrap", 'Element UI', 'AOS', 'Animate.style', 'Hover.css']
         },
         backEnd: {
