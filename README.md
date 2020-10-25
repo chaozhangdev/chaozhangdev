@@ -1,9 +1,8 @@
 <img src="https://i.giphy.com/media/MIRk1F7xyunRM5bpN4/giphy.webp" alt="drawing" width="100%"/>
 
-### About Me 
+### About Me
 
-
-```javascript
+<!--- ```javascript
 const chao = {
     pronouns: "He" | "Him",
     location: 'Vancouver, Canada',
@@ -24,7 +23,7 @@ const chao = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "React & Typescript",
 };
-```
+``` --->
 
 ## <img height="30" src="https://media.giphy.com/media/iEp5KdgmIMzz4u5jvI/giphy.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chao-zhang-727b8b15b/)
