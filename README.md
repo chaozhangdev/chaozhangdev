@@ -1,5 +1,8 @@
 ### About Me 
 
+
+<img src="https://media.giphy.com/media/2tXoAIn2eZaULVPrly/giphy.gif" alt="drawing" width="800"/>
+
 ```javascript
 const chao = {
     pronouns: "He" | "Him",
