@@ -1,10 +1,4 @@
-
-<img src="https://media.giphy.com/media/REgMGx6kh0eYqvuQHE/giphy.gif" alt="drawing" width="100%"/>
-
-
-<img src="https://gph.is/g/46AVrqX" alt="drawing"/>
-
-<img src="https://media.giphy.com/media/jcOGC9OXn6GFIuEYCx/giphy.gif" alt="drawing"/>
+<img src="https://i.giphy.com/media/REgMGx6kh0eYqvuQHE/giphy.webp" alt="drawing" width="100%"/>
 
 ### About Me 
 
