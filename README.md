@@ -1,8 +1,10 @@
 <img src="https://i.giphy.com/media/MIRk1F7xyunRM5bpN4/giphy.webp" alt="drawing" width="100%"/>
 
+<!--- 
+
 ### About Me
 
-<!--- ```javascript
+```javascript
 const chao = {
     pronouns: "He" | "Him",
     location: 'Vancouver, Canada',
