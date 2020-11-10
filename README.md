@@ -3,7 +3,7 @@
 
 
 
- <img src="https://media.giphy.com/media/147z2N5H6dtqWA/giphy.gif" alt="drawing" width="100%"/>
+ <img src="https://media.giphy.com/media/H7NY2KgHRyRxQ1wZu0/giphy.gif" alt="drawing" width="50%"/>
 
 
 <!--- 
