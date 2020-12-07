@@ -1,6 +1,6 @@
 <!---   <img src="https://media.giphy.com/media/YviaPHeat9Dxhd7JIn/giphy.gif" alt="drawing" width="100%"/> --->
 
-<img src="https://media.giphy.com/media/SaJtsdFF12CkvtoBiJ/giphy.gif" alt="drawing" width="100%"/>
+<img src="https://github.com/chaozhangdev/chaozhangdev/blob/main/bg.png?raw=true" alt="drawing" width="100%"/>
 
 
 <!--- 
